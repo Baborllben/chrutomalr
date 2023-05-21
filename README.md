@@ -4,6 +4,8 @@
 > **./core/_copyrights/chrutomalr**\
 > 中的文件复制进您的项目中去，谢谢。
 \---
+
+
 ## 1. 获取和环境配置：
 - 你需要一个Python
 - 获取 Python 3.8.9 : [https://www.python.org/downloads/release/python-389/]
@@ -11,6 +13,8 @@
 
 
   - Windows NT：（Win+R, 输入winver查看当前Windows版本）
+
+
   > **Windows NT 6.0-'s Install**
   > - Windows XP: 不支持
   > - Windows Server 2003: 不支持
@@ -88,7 +92,11 @@
   > - Windows 11 Version 22H2: Python 3.10.11
   > - Windows 11 Version 22H2 Moment 2: Python 3.10.11
   > - Windows Server 2022 Version 22H2: Python 3.10.11
+
+
 - Linux：（Linux自带Python, 下面以自带为准
+
+
   > **Ubuntu's Install**
   > - Ubuntu 4.10 Warty Warthog ~ Ubuntu 17.10 Artful Aardvark: 不支持
   > - Ubuntu 18.04 Bionic Beaver: Python 3.8.9（不建议手动安装与使用此版本
