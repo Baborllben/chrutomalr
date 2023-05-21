@@ -7,7 +7,7 @@
 
 
 ## 1. 获取和环境配置：
-- 你需要一个Python
+- 你需要一个Python（如果你的 Python 已就绪并且确保没有问题，可以忽略这一步看下面。）
 - 获取 [Python 3.8.9](https://www.python.org/downloads/release/python-389/)
 - 获取 [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
 
@@ -192,3 +192,11 @@
   > - Debian GNU/Linux 2.0 ~ Debian 7: 不支持
   > - Debian 8 ~ Debian 10: 需要手动安装Python 3.8.9
   > - Debian 11: 可以升级到Python 3.10.11，也可以降级到Python 3.8.9（更推荐后者
+  > ---
+ 
+ - 获取 Chrutomalr
+  > ---
+  > 为了减轻文件体积和 Python 的**解析读取**速度，狐酱把.py打成了.pyc。
+  > 但是.pyc有一个缺点：不同大版本之间的.pyc文件不能互通，
+  > 所以各位腐竹们按照上面给的操作系统 Python 版本对照图自行下载对应版本的 Chrutomalr（**.tar安装包Linux和Windows互通！Windows自己找软件解压去**）
+  > ---
