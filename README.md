@@ -196,8 +196,8 @@
  
  - 获取 Chrutomalr
 
-  > ---
+---
   > 为了减轻文件体积和 Python 的**解析读取**速度，狐酱把.py打成了.pyc。
   > 但是.pyc有一个缺点：不同大版本之间的.pyc文件不能互通，
   > 所以各位腐竹们按照上面给的操作系统 Python 版本对照图自行下载对应版本的 Chrutomalr（**.tar安装包Linux和Windows互通！Windows自己找软件解压去**）
-  > ---
+---
