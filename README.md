@@ -8,13 +8,11 @@
 
 ## 1. 获取和环境配置：
 - 你需要一个Python
-- 获取 Python 3.8.9 : [https://www.python.org/downloads/release/python-389/]
-- 获取 Python 3.10.11 : [https://www.python.org/downloads/release/python-31011/]
+- 获取 [Python 3.8.9](https://www.python.org/downloads/release/python-389/)
+- 获取 [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
 
-
-  - Windows NT：（Win+R, 输入winver查看当前Windows版本）
-
-
+  - Windows NT：（Win+R, 输入winver查看当前Windows版本）                                                                                                           
+  - ---
   > **Windows NT 6.0-'s Install**
   > - Windows XP: 不支持
   > - Windows Server 2003: 不支持
@@ -23,65 +21,133 @@
   > - Windows 95: 不支持
   > - Windows 98: 不支持
   > - Windows NT 4.5: 不支持
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 6.0's Install**
   > - Windows Vista: Python 3.8.9
   > - Windows Server 2008（R1: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 6.1's Install**
   > - Windows 7: Python 3.8.9
   > - Windows Server 2008 R2: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 6.2's Install**
   > - Windows 8: Python 3.8.9
   > - Windows Server 2012（R1: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 6.3's Install**
   > - Windows 8.1（2023）: Python 3.10.11
   > - Windows Server 2012 R2: Python 3.10.11
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.10240's Install**
   > - Windows 10 Version 1507: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.10586's Install**
   > - Windows 10 Version 1511: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.14393's Install**
   > - Windows 10 Version 1607: Python 3.8.9
   > - Windows Server 2016: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.15063's Install**
   > - Windows 10 Version 1703: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.16299's Install**
   > - Windows 10 Version 1709: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.17134's Install**
   > - Windows 10 Version 1803: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.17763's Install**
   > - Windows 10 Version 1809: Python 3.8.9
   > - Windows Server 2019: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.18362's Install**
   > - Windows 10 Version 1903: Python 3.8.9
   > - Windows 10 Version 19H1: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.18363's Install**
   > - Windows 10 Version 1909: Python 3.8.9
   > - Windows 10 Version 19H2: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.19042's Install**
   > - Windows 10 Version 2004: Python 3.8.9
   > - Windows 10 Version 20H1: Python 3.8.9
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.19043's Install**
   > - Windows 10 Version 2009: Python 3.10.11
   > - Windows 10 Version 20H2: Python 3.10.11
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.19043's Install**
   > - Windows 10 Version 21H1: Python 3.10.11
-  > \---
+
+
+  > ---
+
+
   > **Windows NT 10.0.22000.x's Install**
   > - Windows 10 Version 21H2: Python 3.10.11
   > - Windows 11 Version 21H2: Python 3.10.11
@@ -92,10 +158,9 @@
   > - Windows 11 Version 22H2: Python 3.10.11
   > - Windows 11 Version 22H2 Moment 2: Python 3.10.11
   > - Windows Server 2022 Version 22H2: Python 3.10.11
-
-
-- Linux：（Linux自带Python, 下面以自带为准
-
+  - ---
+  - Linux：（Linux自带Python, 下面以自带为准
+  - ---
 
   > **Ubuntu's Install**
   > - Ubuntu 4.10 Warty Warthog ~ Ubuntu 17.10 Artful Aardvark: 不支持
@@ -111,12 +176,18 @@
   > - Ubuntu 22.10 Kinetic Kudu: Python 3.10.11
   > - Ubuntu 23.04 Lunar Lobster: Python 3.11（不支持！需要手动降级到 Python 3.10.11  
   > - Ubuntu 23.10 Mantic Minotaur: Unknown
-  > \---
+
+
+  > ---
+
+
   > **Centos's Install**
   > - Centos 2.1 ~ 6.10: 不支持
   > - Centos 7.x: 可以手动安装 Python 3.8.9
   > - Centos 8.x: Python 3.8
-  > \---
+
+  > ---
+
   > **Debian's Install**
   > - Debian GNU/Linux 2.0 ~ Debian 7: 不支持
   > - Debian 8 ~ Debian 10: 需要手动安装Python 3.8.9
